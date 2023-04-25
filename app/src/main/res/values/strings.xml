@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">ButtonNavigation</string>
+    <string name="project_title">project</string>
+    <string name="project_icon">project icon</string>
+    <string name="experience_title">experience</string>
+    <string name="header_icon">header_icon</string>
+    <string name="header_title">header</string>
+    <string name="education_icon">education_icon</string>
+    <string name="education_title">education</string>
+    <string name="experience_icon">experience_icon</string>
+    <string name="achievement_title">achievement</string>
+    <string name="skills_title">Skills</string>
+    <string name="skills_icon" />
+    <string name="coursework_title">Coursework</string>
+    <string name="coursework_icon" />
+    <string name="login">Login</string>
 </resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "886881000030",
+    "firebase_url": "https://resume-builder-2d028-default-rtdb.firebaseio.com",
+    "project_id": "resume-builder-2d028",
+    "storage_bucket": "resume-builder-2d028.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886881000030:android:62fcc35d2a554da8bf72cf",
+        "android_client_info": {
+          "package_name": "example.com.buttonnavigation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886881000030-tkl2sh1oj96iuoo7rr4fe5q8i9lt9anv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtnpz6YeteeCXTxr818HlwA7FtvGKpCsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886881000030-tkl2sh1oj96iuoo7rr4fe5q8i9lt9anv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
