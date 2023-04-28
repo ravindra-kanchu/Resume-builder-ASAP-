@@ -1,14 +1,14 @@
-package example.com.buttonnavigation;
+package example.com.resumearchitect;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class Achievements extends AppCompatActivity {
+public class Experience extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_achievements);
+        setContentView(R.layout.activity_experience);
     }
 }

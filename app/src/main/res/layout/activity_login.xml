@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:id="@+id/loginlogo"
     android:layout_height="match_parent"
-    android:background="@drawable/bb"
+    android:background="@color/black"
     tools:context=".Login">
 
     <TextView
@@ -118,6 +118,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
         android:text="Don't Have An Account?"
+        android:textColor="@color/white"
         android:textSize="16sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

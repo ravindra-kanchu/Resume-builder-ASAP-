@@ -1,9 +1,8 @@
-package example.com.buttonnavigation;
+package example.com.resumearchitect;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.os.Bundle;
 

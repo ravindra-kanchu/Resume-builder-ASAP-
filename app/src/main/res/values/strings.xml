@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">ButtonNavigation</string>
+    <string name="app_name">Resume Architect</string>
     <string name="project_title">project</string>
     <string name="project_icon">project icon</string>
     <string name="experience_title">experience</string>
@@ -14,4 +14,8 @@
     <string name="coursework_title">Coursework</string>
     <string name="coursework_icon" />
     <string name="login">Login</string>
+    <string name="course">Course</string>
+    <string name="university_school">University/School</string>
+    <string name="grade">Grade</string>
+    <string name="passout_year">Passout Year</string>
 </resources>
