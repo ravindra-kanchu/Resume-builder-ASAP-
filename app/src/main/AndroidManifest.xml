@@ -13,25 +13,25 @@
             android:name="example.com.resumearchitect.Register"
             android:exported="false" />
         <activity
-            android:name="example.com.resumearchitect.Coursework"
+            android:name="example.com.resumearchitect.Coursework_details.Coursework"
             android:exported="false" />
         <activity
             android:name="example.com.resumearchitect.Skills"
             android:exported="false" />
         <activity
-            android:name="example.com.resumearchitect.Achievements"
+            android:name="example.com.resumearchitect.Achievement_details.Achievements"
             android:exported="false" />
         <activity
-            android:name="example.com.resumearchitect.Experience"
+            android:name="example.com.resumearchitect.Experience_details.Experience"
             android:exported="false" />
         <activity
-            android:name="example.com.resumearchitect.Education"
+            android:name="example.com.resumearchitect.Education_details.Education"
             android:exported="false" />
         <activity
             android:name="example.com.resumearchitect.Header"
             android:exported="false" />
         <activity
-            android:name="example.com.resumearchitect.Project_details"
+            android:name="example.com.resumearchitect.Project_details.Project"
             android:exported="false" />
         <activity
             android:name="example.com.resumearchitect.Options"

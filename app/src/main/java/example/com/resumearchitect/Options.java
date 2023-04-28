@@ -7,6 +7,12 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.LinearLayout;
 
+import example.com.resumearchitect.Achievement_details.Achievements;
+import example.com.resumearchitect.Coursework_details.Coursework;
+import example.com.resumearchitect.Education_details.Education;
+import example.com.resumearchitect.Experience_details.Experience;
+import example.com.resumearchitect.Project_details.Project;
+
 public class Options extends AppCompatActivity {
 
     LinearLayout header,education,experience,project,achievements,skills,coursework;
@@ -29,7 +35,7 @@ public class Options extends AppCompatActivity {
         education.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(getApplicationContext(),Education.class);
+                Intent intent = new Intent(getApplicationContext(), Education.class);
                 startActivity(intent);
             }
         });
@@ -38,7 +44,7 @@ public class Options extends AppCompatActivity {
         experience.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(getApplicationContext(),Experience.class);
+                Intent intent = new Intent(getApplicationContext(), Experience.class);
                 startActivity(intent);
             }
         });
@@ -47,7 +53,7 @@ public class Options extends AppCompatActivity {
         project.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(getApplicationContext(),Project_details.class);
+                Intent intent = new Intent(getApplicationContext(), Project.class);
                 startActivity(intent);
             }
         });
@@ -56,7 +62,7 @@ public class Options extends AppCompatActivity {
         achievements.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(getApplicationContext(),Achievements.class);
+                Intent intent = new Intent(getApplicationContext(), Achievements.class);
                 startActivity(intent);
             }
         });
@@ -74,7 +80,7 @@ public class Options extends AppCompatActivity {
         coursework.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(getApplicationContext(),Coursework.class);
+                Intent intent = new Intent(getApplicationContext(), Coursework.class);
                 startActivity(intent);
             }
         });
