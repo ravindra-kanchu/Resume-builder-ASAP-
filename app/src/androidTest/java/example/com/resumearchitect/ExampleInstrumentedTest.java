@@ -1,4 +1,4 @@
-package example.com.buttonnavigation;
+package example.com.resumearchitect;
 
 import android.content.Context;
 
